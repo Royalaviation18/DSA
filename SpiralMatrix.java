@@ -1,4 +1,4 @@
-//{ Driver Code Starts
+//Spirally traversing a matrix
 import java.io.*;
 import java.util.*;
 class GFG
